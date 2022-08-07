@@ -5,7 +5,7 @@
 "|_|  |_| |_|   |_| \_|  \_/  |___|_|  |_|_| \_\\____|
 
 
-" Author: @Alkaido
+" Author: @Changliu
 " Checkout-list
 " vim-esearch
 " fmoralesc/worldslice
